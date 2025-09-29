@@ -1,0 +1,2 @@
+# python-convert-filter-and-grayscale-image
+PYTHON PROGRAM TO CONVERT , FILTER , AND GRAYSCALE IMAGE USING CV 2 AND MATPLOTLIB 
